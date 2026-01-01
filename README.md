@@ -40,6 +40,22 @@ The **AI-Powered DCA Command Center** addresses these gaps by combining:
 
 ---
 
+## Screenshots
+
+### Executive Dashboard
+![Executive Dashboard](screenshots/dashboard.png)
+
+### AI Case Analyzer
+![AI Case Analyzer](screenshots/ai_analyzer.png)
+
+### Governance & Risk View
+![Governance & Risk](screenshots/governance.png)
+
+### Cost Savings Simulation
+![Cost Savings Simulation](screenshots/cost_simulation.png)
+
+---
+
 ## Solution Pipeline
 1. Synthetic enterprise-scale overdue account data generation  
 2. Feature engineering (risk, ageing, payment behavior)  
