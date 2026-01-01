@@ -1,7 +1,9 @@
-# =========================================================
-# FEDEx – AI POWERED DCA COMMAND CENTER
-# WITH COST SAVINGS SIMULATION
-# =========================================================
+# FedEx SMART Hackathon Submission
+# AI-Powered DCA Command Center
+# Focus: Recovery Risk, Cost Leakage & Profit Optimization
+# Author: Rishika Shreshtha and Arjun Sahu
+# Note: Cost and recovery logic designed based on business assumptions
+
 
 import streamlit as st
 import pandas as pd
@@ -244,3 +246,4 @@ st.caption(
     "This platform simulates an enterprise-grade AI decision system integrating "
     "risk prediction, cost modeling, and profit-optimal debt recovery."
 )
+
